@@ -15,5 +15,5 @@ cache:
     - $HOME/.m2
 env:
   global:
-    - secure: "DfDfaPKIE/pvu4LH2dbsk+bXq4gFtFN1/p6sF36r46w96piIM8NuizPISzUFVStyG1V9KryCA/OMywxLiky43EnotCOPFQdz4SvcowEM8kbxotauAKu6kkd8Gh3MHD4NHRP3BGNq74JM+Bgq1IipHUpCGfz9COA3JMvAtWDnjzk="
-    - secure: "u/rc6nrg2L7qo/rvCezRxTHLKwS/R7x6Pjv4ZDYJagdBzGyGvDQ/4lM8eMqQlV6iSXvhlRGPadRb85Us62InYYMElDkOyTmWEHTUxUYMpqQQhVsuctzG+qtGMmMx9BFOECIllVf/xUBRWYes+a14TBu6NNVy55P8Zsx9N5zVDS8="
+    - secure: "ZWD9OzXlzLBjxgmHVsDYxZ8qorG0r7DHJ5nHyOkjCF2kFerrKVc9GPbKlRkh9tk++/wBlmmh+RdKYO/h0v0BLKTi6CawNNJCX42oWdPPFzBmYIVnx8TVGaVlemD1vYodmhg/d1EOlQzflFs4nYrLE6TRbzprqzEfG0X2apAVkSw="
+    - secure: "NQg+iHqj4J9Fzu6ALJMbfG+pwn24Fu9qBL7yaQvNInl/lP6f1Hf1b/+yMzicbZaGLBNwu7On307qfORu9HTmRetvoBIPcmIbwAn+YaZS+WZxKjgBGwORS3rPuZpSGw6BTy0+Mc5qeSk2sys4GnRr7bvECBB2Gq79xY+Ou+5jwA0="
