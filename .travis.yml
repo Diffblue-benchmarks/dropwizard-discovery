@@ -13,10 +13,7 @@ after_success:
 cache:
   directories:
     - $HOME/.m2
-
 env:
   global:
-    # CI_DEPLOY_USERNAME
-    - secure: "brHZc6AaCVg7voivK3ssi8N+3Id+STnRE0WQ9HfPRYApearIR9U05Su/icAiwFB8uFyv/TMclR4FygWuj7A9cnH2YT5XCBIsffMYu7E/+86zDfX/+7yIfxLJDLQ4A3AWCrIQ4VBTdaOnrqbGiVGQ7PL4hOTcwA3pZQhsjqkPkWE="
-    # CI_DEPLOY_PASSWORD
-    - secure: "T/qwRIqaFqVwcEHLGnGHbTwBpWp5B5rLTO8+cLri4MZ1lVx9i6qwB8qPAcSKA2wBKl7gXiOFdmxQeCmZ9lwwWNEJgdHhpUwR5fS85ahNU4dSkrPhJIW4thnbFLYFyNTmq+RQALIK+DdkJ0t+cj4llEbEjjWXfNBU/Uv9eIpiSFo="
+    - secure: "DfDfaPKIE/pvu4LH2dbsk+bXq4gFtFN1/p6sF36r46w96piIM8NuizPISzUFVStyG1V9KryCA/OMywxLiky43EnotCOPFQdz4SvcowEM8kbxotauAKu6kkd8Gh3MHD4NHRP3BGNq74JM+Bgq1IipHUpCGfz9COA3JMvAtWDnjzk="
+    - secure: "u/rc6nrg2L7qo/rvCezRxTHLKwS/R7x6Pjv4ZDYJagdBzGyGvDQ/4lM8eMqQlV6iSXvhlRGPadRb85Us62InYYMElDkOyTmWEHTUxUYMpqQQhVsuctzG+qtGMmMx9BFOECIllVf/xUBRWYes+a14TBu6NNVy55P8Zsx9N5zVDS8="
